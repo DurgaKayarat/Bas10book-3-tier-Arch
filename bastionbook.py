@@ -13,7 +13,7 @@ app.config['SESSION_TYPE'] = 'filesystem'
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World - 31aug 11.13</p>"
+    return "<p>Hello, World - 31aug 11.17</p>"
 
 #for passing inputs through extensions
 #the decorator argument and the function argument
